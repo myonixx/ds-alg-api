@@ -1,0 +1,20 @@
+[
+  {
+    "id": "static-array",
+    "name": "static array",
+    "complexity": "O(1)",
+    "description": "static array description"
+  },
+  {
+    "id": "linked-list",
+    "name": "linked list",
+    "complexity": "O(1)",
+    "description": "linked list description"
+  },
+  {
+    "id": "dynamic-array",
+    "name": "dynamic array",
+    "complexity": "O(1)",
+    "description": "dynamic array description"
+  }
+]
