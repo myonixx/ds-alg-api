@@ -1,21 +1,21 @@
 [
   {
     "id": "static-array",
-    "name": "static array",
+    "name": "Static Array",
     "complexity": "O(n)",
-    "description": "static array description"
+    "description": "Static array description"
   },
   {
     "id": "linked-list",
-    "name": "linked list",
+    "name": "Linked List",
     "complexity": "O(n)",
-    "description": "linked list description"
+    "description": "Linked list description"
   },
   {
     "id": "dynamic-array",
-    "name": "dynamic array",
+    "name": "Dynamic Array",
     "complexity": "O(n)",
-    "description": "dynamic array description"
+    "description": "Dynamic array description"
   },
   {
     "id": "stack",
