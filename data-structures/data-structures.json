@@ -2,19 +2,79 @@
   {
     "id": "static-array",
     "name": "static array",
-    "complexity": "O(1)",
+    "complexity": "O(n)",
     "description": "static array description"
   },
   {
     "id": "linked-list",
     "name": "linked list",
-    "complexity": "O(1)",
+    "complexity": "O(n)",
     "description": "linked list description"
   },
   {
     "id": "dynamic-array",
     "name": "dynamic array",
-    "complexity": "O(1)",
+    "complexity": "O(n)",
     "description": "dynamic array description"
+  },
+  {
+    "id": "stack",
+    "name": "Stack",
+    "complexity": "O(n)",
+    "description": "Stack description"
+  },
+  {
+    "id": "queue",
+    "name": "Queue",
+    "complexity": "O(n)",
+    "description": "Queue description"
+  },
+  {
+    "id": "hash-table",
+    "name": "Hash Table",
+    "complexity": "O(log n)",
+    "description": "Hash table description"
+  },
+  {
+    "id": "skip-list",
+    "name": "Skip List",
+    "complexity": "O(log n)",
+    "description": "Skip list description"
+  },
+  {
+    "id": "binary-search-tree",
+    "name": "Binary Search Tree",
+    "complexity": "O(log n)",
+    "description": "Binary search tree description"
+  },
+  {
+    "id": "avl-tree",
+    "name": "AVL Tree",
+    "complexity": "O(log n)",
+    "description": "AVL tree description"
+  },
+  {
+    "id": "priority-queue",
+    "name": "Priority Queue",
+    "complexity": "O(log n)",
+    "description": "Priority queue description"
+  },
+  {
+    "id": "heap",
+    "name": "Heap",
+    "complexity": "O(log n)",
+    "description": "Heap description"
+  },
+  {
+    "id": "edge-list",
+    "name": "Edge List",
+    "complexity": "O((v + e)^2)",
+    "description": "Edge list description"
+  },
+  {
+    "id": "adjacency-list",
+    "name": "Adjacency List",
+    "complexity": "O(v + e)",
+    "description": "Adjacency list description"
   }
 ]
