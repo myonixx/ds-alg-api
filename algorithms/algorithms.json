@@ -1,0 +1,74 @@
+[
+  {
+    "id": "selection-sort",
+    "name": "Selection Sort",
+    "complexity": "O(n^2)",
+    "description": "Selection sort description"
+  },
+  {
+    "id": "insertion-sort",
+    "name": "Insertion Sort",
+    "complexity": "O(n^2)",
+    "description": "Insertion sort description"
+  },
+  {
+    "id": "merge-sort",
+    "name": "Merge Sort",
+    "complexity": "O(n log n)",
+    "description": "Merge sort description"
+  },
+  {
+    "id": "counting-sort",
+    "name": "Counting Sort",
+    "complexity": "O(m + n)",
+    "description": "Counting sort description"
+  },
+  {
+    "id": "radix-sort",
+    "name": "Radix Sort",
+    "complexity": "O(n + m)",
+    "description": "Radix sort description"
+  },
+  {
+    "id": "heap-sort",
+    "name": "Heap Sort",
+    "complexity": "O(n log n)",
+    "description": "Heap sort description"
+  },
+  {
+    "id": "binary-search",
+    "name": "Binary Search",
+    "complexity": "O(log n)",
+    "description": "Binary search description"
+  },
+  {
+    "id": "breadth-first-search",
+    "name": "Breadth First Search",
+    "complexity": "O(v + e)",
+    "description": "Breadth first description"
+  },
+  {
+    "id": "depth-first-search",
+    "name": "Depth First Search",
+    "complexity": "O(e)",
+    "description": "Depth first description"
+  },
+  {
+    "id": "topological-sort",
+    "name": "Topological Sort",
+    "complexity": "O(v + e)",
+    "description": "Topological sort description"
+  },
+  {
+    "id": "dijkstra",
+    "name": "Dijkstra",
+    "complexity": "O(v log v + e)",
+    "description": "Dijkstra description"
+  },
+  {
+    "id": "bellman-ford",
+    "name": "Bellman Ford",
+    "complexity": "O(ve)",
+    "description": "Bellman Ford description"
+  }
+]
